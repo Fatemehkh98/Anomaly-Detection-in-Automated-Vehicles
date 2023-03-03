@@ -1,4 +1,4 @@
-# Anomaly-Detection-in-Automated-Vehicles
+# Anomaly-Detection-in-CAVs
 1. Preprocessing being  used -  Differencing (D) or Moving Standard Deviation (MSD).
 
 2. Models being used- CNN-LSTM Autoencoder  and CNN-BiLSTM
